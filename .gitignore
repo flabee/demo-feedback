@@ -1,0 +1,18 @@
+# dependencies / build
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# env
+.env
+.env.local
+.env*.local
+
+# OS / editor
+.DS_Store
+**/.DS_Store
+.vite/
