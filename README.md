@@ -9,6 +9,10 @@ manual work** beyond a one-time "Connect Google Calendar" click.
 Next.js 15 (App Router) · NextAuth · Supabase · Google Calendar + Gmail APIs.
 No email provider, no third-party SDKs, no background-worker infrastructure.
 
+<p align="center">
+  <img src="docs/demo.gif" alt="Walkthrough: a prospect fills in the one-question-at-a-time feedback form, then the sales dashboard opens a prospect's detail drawer" width="820">
+</p>
+
 ---
 
 ## What this project shows
